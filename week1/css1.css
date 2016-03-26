@@ -1,0 +1,20 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #457125;
+}
+
+a:hover {
+    background-color: #2E9AFE;
+}
+
+.links {
+    background-color:#FAAC58;
+}
+
+.block {
+    background-color: #2E9AFE;
+}
