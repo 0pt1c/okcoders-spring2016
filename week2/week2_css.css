@@ -1,0 +1,25 @@
+nav {
+  float: left;
+  width: 200px;
+  border-style: solid;
+  border-color: red;
+}
+section {
+  margin-left: 200px;
+  border-style: dashed;
+  border-color: blue;
+  clear: right;
+}
+
+div {
+    border-style: dotted;
+    border-color: green;
+}
+
+img {
+    float: left;
+}
+
+.clearfix {
+  overflow: auto;
+}

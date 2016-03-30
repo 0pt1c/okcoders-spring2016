@@ -27,7 +27,11 @@ ul {
     color: #000000;
 }
 
-.text-center {
+.pink {
+    color: #ED51AC;
+}
+
+.center {
 	text-align: center;
 }
 
@@ -48,24 +52,24 @@ nav li {
   height: 40px;
   border-bottom: 1px solid #888;
 }
- 
+
 nav a {
   text-decoration: none;
   color: #fff;
   display: block;
   transition: .3s background-color;
 }
- 
+
 nav a:hover {
   background-color: #33829C;
 }
- 
+
 nav a.active {
   background-color: #9C4D33;
   color: #000;
   cursor: default;
 }
- 
+
 @media screen and (min-width: 600px) {
   nav li {
     width: 120px;
@@ -74,13 +78,13 @@ nav a.active {
     line-height: 50px;
     font-size: 1.4em;
   }
- 
+
   /* Option 1 - Display Inline */
   nav li {
     display: inline-block;
     margin-right: -4px;
   }
- 
+
   /* Options 2 - Float
   .nav li {
     float: left;
