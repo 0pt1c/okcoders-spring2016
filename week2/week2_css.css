@@ -13,11 +13,13 @@ section {
   border-style: dashed;
   border-color: blue;
   clear: right;
+  overflow: visible;
 }
 
 div {
     border-style: dotted;
     border-color: green;
+    clear: right;
 }
 
 img {
