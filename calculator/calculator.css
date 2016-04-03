@@ -1,0 +1,23 @@
+.left {
+    float: left;
+}
+
+.calcbox {
+    border: 2px solid;
+    float: left;
+    width: 153px;
+}
+
+.numbutton {
+    padding: .5em;
+    background-color: rgb(16.7%, 29.5%, 51.1%);
+    color: rgb(60.6%, 66.2%, 75.7%);
+    border: 1px solid;
+    width: 33px;
+}
+
+.numbutton:hover {
+    background-color: rgb(4.3%, 10.4%, 20.6%);
+    color: rgb(94.8%, 95.7%, 97.2%);
+}
+
