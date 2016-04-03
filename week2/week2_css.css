@@ -1,3 +1,7 @@
+body {
+  background-color: #E3C867;
+}
+
 nav {
   float: left;
   width: 200px;
@@ -18,6 +22,7 @@ div {
 
 img {
     float: left;
+    margin: 0 1em .5em 0;
 }
 
 .clearfix {
