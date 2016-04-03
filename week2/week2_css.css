@@ -9,15 +9,19 @@ section {
   border-style: dashed;
   border-color: blue;
   clear: right;
+  overflow: visible;
 }
 
 div {
     border-style: dotted;
     border-color: green;
+    clear: right;
 }
 
 img {
     float: left;
+    overflow: visible;
+    margin: .5em;
 }
 
 .clearfix {
